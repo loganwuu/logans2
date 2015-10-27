@@ -17,4 +17,9 @@
     'title' => t('Drupal.org'),
     'domain' => 'drupal.org',
   );
+
+  $networks[$uid]['etsy'] = array(
+    'title' => t("Jamie's Etsy shop"),
+    'domain' => 'etsy.com',
+  );
  }
