@@ -1,0 +1,4 @@
+name = My Custom Module
+description = Custom Functions
+package = Custom
+core = 7.x
