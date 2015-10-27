@@ -1,0 +1,4 @@
+name = Simple Contact
+description = Removes the "Send yourself a copy" checkbox and the subject line input box.
+package = Custom
+core = 7.x
