@@ -1,0 +1,4 @@
+name = Follow Extend
+description = Adds imbd and drupal profile links.
+package = Custom
+core = 7.x

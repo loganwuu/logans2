@@ -91,6 +91,14 @@
   background-image: url(<?php print $icon_path; ?>/icon-newsletter.png);
 }
 
+<?php print $selector_prefix; ?>a.follow-link-drupal {
+  background-image: url(<?php print $icon_path; ?>/icon-drupal.png);
+}
+
+<?php print $selector_prefix; ?>a.follow-link-imdb {
+  background-image: url(<?php print $icon_path; ?>/icon-imdb.png);
+}
+
 <?php if (!empty($css_overrides)): ?>
 /* Custom overrides for this style. */
 <?php print $css_overrides; ?>
