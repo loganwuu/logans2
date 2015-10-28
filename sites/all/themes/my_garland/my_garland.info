@@ -1,0 +1,8 @@
+name = My Garland
+description = My subtheme of Garland.
+package = Core
+version = VERSION
+core = 7.x
+stylesheets[all][] = style.css
+stylesheets[all][] = my_garland.css
+settings[garland_width] = fluid
